@@ -1,3 +1,4 @@
+[Case study on Pivots_2.xlsx](https://github.com/minityn/minityn.datascientist.github.io/files/8709941/Case.study.on.Pivots_2.xlsx)
 ## Portfolio
 
 ---
